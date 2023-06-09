@@ -3,7 +3,6 @@ import streamlit as st
 import joblib
 
 def main():
-    st.title('Test')
     html_temp = """
     <div style="background-color:tomato;padding:10px">
     <h2 style="color:white;text-align:center;">Health Insurance Price Predictor </h2>
