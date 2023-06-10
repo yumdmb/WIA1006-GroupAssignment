@@ -2,3 +2,9 @@ Test.py
 model_joblib_rf
 model_joblib_gb
 main2.py
+main4.py
+/code/main3.py
+/code/model.pkl
+/code/scaler.pkl
+ML SLIDE
+.vscode
